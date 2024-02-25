@@ -1,3 +1,1 @@
-<template>
-  account
-</template>
+<template>account</template>
