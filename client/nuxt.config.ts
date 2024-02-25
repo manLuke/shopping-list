@@ -30,5 +30,11 @@ export default defineNuxtConfig({
     composables: {
       include: ["useToast"],
     },
+    components: {
+      include: ["Toast"],
+    },
+    directives: {
+      include: [],
+    },
   },
 });
