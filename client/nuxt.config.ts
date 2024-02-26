@@ -31,7 +31,7 @@ export default defineNuxtConfig({
       include: ["useToast"],
     },
     components: {
-      include: ["Toast"],
+      include: ["Toast", "Dialog"],
     },
     directives: {
       include: [],

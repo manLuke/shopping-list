@@ -1,5 +1,7 @@
 {
   "en": {
-    "emptyList": "No items to display"
+    "empty_list": "No items to display",
+    "btn_cancel": "Cancel",
+    "btn_confirm": "Confirm"
   }
 }
